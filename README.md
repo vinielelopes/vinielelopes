@@ -4,8 +4,8 @@
 
   <div> 
     <h3 align="left">Connect with me:</h3>
-      <a href="www.linkedin.com/in/vinielelopes" target="_blank"><img  height = "50em" src="assets/linkedin.png"></a> 
-         <a href="vinielelopes@outlook.com" target="_blank"><img  height = "50em" src="assets/email.png"></a> 
+      <a href="http://linkedin.com/in/vinielelopes" target="_blank"><img  height = "50em" src="assets/linkedin.png"></a> 
+         <a href=mailto:vinielelopes@outlook.com" target="_blank"><img  height = "50em" src="assets/email.png"></a> 
       <a href="https://discord.gg/ASunj4XDFP" target="_blank"><img height = "50em" src="assets/discord.png"></a> 
     </div>
 
